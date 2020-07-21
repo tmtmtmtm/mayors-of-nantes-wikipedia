@@ -33,6 +33,10 @@ end
 
 # Each officeholder in the list
 class HolderItem < Scraped::HTML
+  field :ordinal do
+    tds[2].text.tidy[/^(\d+)\./, 1]
+  end
+
   field :id do
     return 'Q3427041' if name == 'René de Cornulier-Lucinière'
     tds[2].css('a/@wikidata').map(&:text).first
