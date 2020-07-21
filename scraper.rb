@@ -34,7 +34,8 @@ end
 # Each officeholder in the list
 class HolderItem < Scraped::HTML
   field :id do
-    tds[2].css('a/@wikidata').map(&:text).first rescue binding.pry
+    return 'Q3427041' if name == 'René de Cornulier-Lucinière'
+    tds[2].css('a/@wikidata').map(&:text).first
   end
 
   field :name do
