@@ -1,159 +1,10 @@
 [
   {
     "item": {
-      "value": "Q2829669",
-      "label": "Alain Chénard"
-    },
-    "replaces": {
-      "value": "Q2848330",
-      "label": "André Morice"
-    },
-    "replacedBy": {
-      "value": "Q3309257",
-      "label": "Michel Chauty"
-    },
-    "statement": "Q2829669$CBBF03D0-9712-45F6-8D34-718F0BC784AC"
-  },
-  {
-    "item": {
-      "value": "Q2848887",
-      "label": "André du Bot"
-    },
-    "statement": "Q2848887$043C6151-3AF3-4765-AB56-14A57B92D31A"
-  },
-  {
-    "item": {
-      "value": "Q16683809",
-      "label": "Yves Rocaz"
-    },
-    "statement": "Q16683809$ECEA832B-5519-42F7-B3FE-C0478300E552"
-  },
-  {
-    "item": {
-      "value": "Q17628589",
-      "label": "François Bourgogne"
-    },
-    "statement": "Q17628589$b8dd8af7-48bd-afd0-4dcf-03292e908641"
-  },
-  {
-    "item": {
-      "value": "Q16010455",
-      "label": "Mathieu André"
-    },
-    "statement": "Q16010455$4C4461E4-69F3-4273-A37A-178384A28113"
-  },
-  {
-    "item": {
-      "value": "Q16669251",
-      "label": "Paul Cassard"
-    },
-    "statement": "Q16669251$26C8E1B6-53FB-4BA4-BB57-05EB2620BF25"
-  },
-  {
-    "item": {
-      "value": "Q20241014",
-      "label": "Jean-François Védier"
-    },
-    "statement": "Q20241014$d9189e5a-4581-4dfa-90db-7a51674f8c47"
-  },
-  {
-    "item": {
-      "value": "Q17629352",
-      "label": "Gratien Libault"
-    },
-    "statement": "Q17629352$a85fbb03-4d4b-114d-57cf-ef7637dfc8af"
-  },
-  {
-    "item": {
-      "value": "Q17630652",
-      "label": "Jacques Grignon"
-    },
-    "statement": "Q17630652$a95bfa95-4bde-7989-affd-7830a7eb09e6"
-  },
-  {
-    "item": {
-      "value": "Q17630927",
-      "label": "Jean Boutin"
-    },
-    "statement": "Q17630927$7da0877d-4f86-ee04-58c8-da4e1e857638"
-  },
-  {
-    "item": {
-      "value": "Q17634909",
-      "label": "Mathurin Giraud"
-    },
-    "statement": "Q17634909$04d35a46-4736-1b51-d6e1-1b84927fb14d"
-  },
-  {
-    "item": {
-      "value": "Q17635092",
-      "label": "Michel Loriot"
-    },
-    "statement": "Q17635092$965fc589-4ff6-d402-cbef-8c27e1b24c48"
-  },
-  {
-    "item": {
-      "value": "Q2848330",
-      "label": "André Morice"
-    },
-    "replaces": {
-      "value": "Q3132985",
-      "label": "Henry Orrion"
-    },
-    "replacedBy": {
-      "value": "Q2829669",
-      "label": "Alain Chénard"
-    },
-    "statement": "Q2848330$FA77478D-395E-45C6-AEA2-86D0FE7CEBEF"
-  },
-  {
-    "item": {
-      "value": "Q3173609",
-      "label": "Jean Morin de La Sorinière"
-    },
-    "statement": "Q3173609$956262d9-4f90-3591-0e90-799be32d8371"
-  },
-  {
-    "item": {
-      "value": "Q17634377",
-      "label": "Louis Macé"
-    },
-    "statement": "Q17634377$57f3b6b7-4b1e-9779-93b7-74201f01a8a2"
-  },
-  {
-    "item": {
       "value": "Q3301588",
       "label": "Maurice Étiennez"
     },
     "statement": "Q3301588$6C12D9A7-C2B3-4157-8940-C926B0BF2EFB"
-  },
-  {
-    "item": {
-      "value": "Q15967071",
-      "label": "Pierre André"
-    },
-    "statement": "Q15967071$16B59245-89E4-42FE-8B1A-6401196C9C57"
-  },
-  {
-    "item": {
-      "value": "Q17628607",
-      "label": "François Lorido"
-    },
-    "statement": "Q17628607$7068db15-4684-62b0-9b59-7a38acdcdf31"
-  },
-  {
-    "item": {
-      "value": "Q17629003",
-      "label": "Georges Guérin de Beaumont"
-    },
-    "statement": "Q17629003$31f59d75-4f39-891f-0041-5a1fd4eeb4f1"
-  },
-  {
-    "item": {
-      "value": "Q17635089",
-      "label": "Michel Loriot"
-    },
-    "statement": "Q17635089$09f3fe4b-4ea6-f4e4-7885-011c351c3e8c"
   },
   {
     "item": {
@@ -165,108 +16,6 @@
       "label": "André Morice"
     },
     "statement": "Q3132985$65B7C238-1F70-44DB-9E14-3FD7DF168FD5"
-  },
-  {
-    "item": {
-      "value": "Q3309257",
-      "label": "Michel Chauty"
-    },
-    "replacedBy": {
-      "value": "Q7711",
-      "label": "Jean-Marc Ayrault"
-    },
-    "statement": "Q3309257$3A34D038-CB21-4F1A-AD3E-DC1465FAE3F4"
-  },
-  {
-    "item": {
-      "value": "Q17624962",
-      "label": "Claude Brossard"
-    },
-    "statement": "Q17624962$3d895d14-4262-5d1c-8fef-060fa06bbad1"
-  },
-  {
-    "item": {
-      "value": "Q17628615",
-      "label": "François Myron"
-    },
-    "statement": "Q17628615$6418bb3d-4264-681b-b210-2a10edfb3479"
-  },
-  {
-    "item": {
-      "value": "Q17631276",
-      "label": "Julien Laurens"
-    },
-    "statement": "Q17631276$b3f00db6-480e-520d-a49b-271aad5b71d0"
-  },
-  {
-    "item": {
-      "value": "Q20240977",
-      "label": "Claude Petit"
-    },
-    "statement": "Q20240977$24d22a6b-4087-09c0-b358-fbe4636c4330"
-  },
-  {
-    "item": {
-      "value": "Q20241001",
-      "label": "François-Pierre Durocher"
-    },
-    "statement": "Q20241001$2e3ad315-4814-c900-81bf-23a3cfe5a2f5"
-  },
-  {
-    "item": {
-      "value": "Q17154152",
-      "label": "Jacques Fremon"
-    },
-    "statement": "Q17154152$9244ceae-435c-2b1d-16c6-cc8a3abb3266"
-  },
-  {
-    "item": {
-      "value": "Q17628611",
-      "label": "François Moricaud"
-    },
-    "statement": "Q17628611$a1b4d1cf-49cc-c6a0-f87f-ca9690e642c9"
-  },
-  {
-    "item": {
-      "value": "Q17630943",
-      "label": "Jean Frusneau"
-    },
-    "statement": "Q17630943$29c45a5f-48a8-9322-737e-1bb4c4b2696a"
-  },
-  {
-    "item": {
-      "value": "Q18214986",
-      "label": "Jean Fournier"
-    },
-    "statement": "Q18214986$2A648C7A-6987-4FF6-B0D1-A87A24796A4D"
-  },
-  {
-    "item": {
-      "value": "Q20241005",
-      "label": "Guillaume Dubot de Launay"
-    },
-    "statement": "Q20241005$195c108e-48e6-fde8-2339-48ddde66630d"
-  },
-  {
-    "item": {
-      "value": "Q3099930",
-      "label": "Gaëtan Rondeau"
-    },
-    "statement": "Q3099930$DF2D87FB-F42D-44B4-A0FF-151944672CC7"
-  },
-  {
-    "item": {
-      "value": "Q15967149",
-      "label": "Jean Poullain"
-    },
-    "statement": "Q15967149$AE24D22C-940D-459F-B4DA-D0E6CFDC3962"
-  },
-  {
-    "item": {
-      "value": "Q17630956",
-      "label": "Jean Laubier"
-    },
-    "statement": "Q17630956$dea0f21e-447e-ac09-9339-30cee8099694"
   },
   {
     "item": {
@@ -283,8 +32,49 @@
   },
   {
     "item": {
+      "value": "Q16683809",
+      "label": "Yves Rocaz"
+    },
+    "replaces": {
+      "value": "Q3101128",
+      "label": "Geoffroy Drouet"
+    },
+    "replacedBy": {
+      "value": "Q16010455",
+      "label": "Mathieu André"
+    },
+    "statement": "Q16683809$ECEA832B-5519-42F7-B3FE-C0478300E552",
+    "start": "1566-01-01T00:00:00Z",
+    "end": "1567-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q16010455",
+      "label": "Mathieu André"
+    },
+    "replaces": {
+      "value": "Q16683809",
+      "label": "Yves Rocaz"
+    },
+    "replacedBy": {
       "value": "Q16670092",
       "label": "Pierre de Cornulier de la Touche"
+    },
+    "statement": "Q16010455$4C4461E4-69F3-4273-A37A-178384A28113",
+    "start": "1568-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q16670092",
+      "label": "Pierre de Cornulier de la Touche"
+    },
+    "replaces": {
+      "value": "Q16010455",
+      "label": "Mathieu André"
+    },
+    "replacedBy": {
+      "value": "Q3173609",
+      "label": "Jean Morin de La Sorinière"
     },
     "statement": "Q16670092$4F0DF173-1DCA-4D56-867B-889E2BFD3DED",
     "start": "1569-01-01T00:00:00Z",
@@ -292,8 +82,32 @@
   },
   {
     "item": {
+      "value": "Q3173609",
+      "label": "Jean Morin de La Sorinière"
+    },
+    "replaces": {
+      "value": "Q16670092",
+      "label": "Pierre de Cornulier de la Touche"
+    },
+    "replacedBy": {
       "value": "Q16640526",
       "label": "Guillaume Harouys"
+    },
+    "statement": "Q3173609$956262d9-4f90-3591-0e90-799be32d8371",
+    "start": "1571-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q16640526",
+      "label": "Guillaume Harouys"
+    },
+    "replaces": {
+      "value": "Q3173609",
+      "label": "Jean Morin de La Sorinière"
+    },
+    "replacedBy": {
+      "value": "Q17355347",
+      "label": "Michel Le Loup"
     },
     "statement": "Q16640526$FEAF8873-6DFE-4AD4-9B11-AD9AA6B43828",
     "start": "1572-01-01T00:00:00Z",
@@ -318,8 +132,48 @@
   },
   {
     "item": {
+      "value": "Q17630652",
+      "label": "Jacques Grignon"
+    },
+    "replaces": {
+      "value": "Q17355347",
+      "label": "Michel Le Loup"
+    },
+    "replacedBy": {
+      "value": "Q17630927",
+      "label": "Jean Boutin"
+    },
+    "statement": "Q17630652$a95bfa95-4bde-7989-affd-7830a7eb09e6",
+    "start": "1574-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q17630927",
+      "label": "Jean Boutin"
+    },
+    "replaces": {
+      "value": "Q17630652",
+      "label": "Jacques Grignon"
+    },
+    "replacedBy": {
       "value": "Q16672982",
       "label": "Robert Poullain"
+    },
+    "statement": "Q17630927$7da0877d-4f86-ee04-58c8-da4e1e857638",
+    "start": "1575-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q16672982",
+      "label": "Robert Poullain"
+    },
+    "replaces": {
+      "value": "Q17630927",
+      "label": "Jean Boutin"
+    },
+    "replacedBy": {
+      "value": "Q17635089",
+      "label": "Michel Loriot"
     },
     "statement": "Q16672982$0C793F1E-64D4-4756-AB76-C8BAE547372A",
     "start": "1576-01-01T00:00:00Z",
@@ -327,8 +181,49 @@
   },
   {
     "item": {
+      "value": "Q17635089",
+      "label": "Michel Loriot"
+    },
+    "replaces": {
+      "value": "Q16672982",
+      "label": "Robert Poullain"
+    },
+    "replacedBy": {
+      "value": "Q17628615",
+      "label": "François Myron"
+    },
+    "statement": "Q17635089$09f3fe4b-4ea6-f4e4-7885-011c351c3e8c",
+    "start": "1577-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q17628615",
+      "label": "François Myron"
+    },
+    "replaces": {
+      "value": "Q17635089",
+      "label": "Michel Loriot"
+    },
+    "replacedBy": {
       "value": "Q15967070",
       "label": "Antoine de Brenezay"
+    },
+    "statement": "Q17628615$6418bb3d-4264-681b-b210-2a10edfb3479",
+    "start": "1578-01-01T00:00:00Z",
+    "end": "1579-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q15967070",
+      "label": "Antoine de Brenezay"
+    },
+    "replaces": {
+      "value": "Q17628615",
+      "label": "François Myron"
+    },
+    "replacedBy": {
+      "value": "Q17176530",
+      "label": "Bonaventure de Compludo"
     },
     "statement": "Q15967070$DC5D6B62-8529-4ACF-8C03-B01CB77D6097",
     "start": "1580-01-01T00:00:00Z",
@@ -339,9 +234,33 @@
       "value": "Q17176530",
       "label": "Bonaventure de Compludo"
     },
+    "replaces": {
+      "value": "Q15967070",
+      "label": "Antoine de Brenezay"
+    },
+    "replacedBy": {
+      "value": "Q17624962",
+      "label": "Claude Brossard"
+    },
     "statement": "Q17176530$a5182ef6-4d1d-6f2b-d79a-cfcf03b4e10b",
     "start": "1581-01-01T00:00:00Z",
     "end": "1582-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q17624962",
+      "label": "Claude Brossard"
+    },
+    "replaces": {
+      "value": "Q17176530",
+      "label": "Bonaventure de Compludo"
+    },
+    "replacedBy": {
+      "value": "Q17621419",
+      "label": "Antoine Gravoil"
+    },
+    "statement": "Q17624962$3d895d14-4262-5d1c-8fef-060fa06bbad1",
+    "start": "1583-01-01T00:00:00Z"
   },
   {
     "item": {
@@ -365,9 +284,34 @@
       "value": "Q16644426",
       "label": "Jacques de Marquès"
     },
+    "replaces": {
+      "value": "Q17621419",
+      "label": "Antoine Gravoil"
+    },
+    "replacedBy": {
+      "value": "Q17630943",
+      "label": "Jean Frusneau"
+    },
     "statement": "Q16644426$F34C82FE-4B0E-49B0-BB02-E514CFA09CD5",
     "start": "1585-01-01T00:00:00Z",
     "end": "1586-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q17630943",
+      "label": "Jean Frusneau"
+    },
+    "replaces": {
+      "value": "Q16644426",
+      "label": "Jacques de Marquès"
+    },
+    "replacedBy": {
+      "value": "Q2959313",
+      "label": "Charles Harouys"
+    },
+    "statement": "Q17630943$29c45a5f-48a8-9322-737e-1bb4c4b2696a",
+    "start": "1586-01-01T00:00:00Z",
+    "end": "1587-01-01T00:00:00Z"
   },
   {
     "item": {
@@ -380,8 +324,67 @@
   },
   {
     "item": {
+      "value": "Q15967071",
+      "label": "Pierre André"
+    },
+    "replaces": {
+      "value": "Q2959313",
+      "label": "Charles Harouys"
+    },
+    "replacedBy": {
+      "value": "Q17630956",
+      "label": "Jean Laubier"
+    },
+    "statement": "Q15967071$16B59245-89E4-42FE-8B1A-6401196C9C57",
+    "start": "1590-01-01T00:00:00Z",
+    "end": "1591-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q17630956",
+      "label": "Jean Laubier"
+    },
+    "replaces": {
+      "value": "Q15967071",
+      "label": "Pierre André"
+    },
+    "replacedBy": {
+      "value": "Q20241005",
+      "label": "Guillaume Dubot de Launay"
+    },
+    "statement": "Q17630956$dea0f21e-447e-ac09-9339-30cee8099694",
+    "start": "1593-01-01T00:00:00Z",
+    "end": "1594-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q20241005",
+      "label": "Guillaume Dubot de Launay"
+    },
+    "replaces": {
+      "value": "Q17630956",
+      "label": "Jean Laubier"
+    },
+    "replacedBy": {
       "value": "Q3172071",
       "label": "Jean Fourché"
+    },
+    "statement": "Q20241005$195c108e-48e6-fde8-2339-48ddde66630d",
+    "start": "1595-01-01T00:00:00Z",
+    "end": "1596-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3172071",
+      "label": "Jean Fourché"
+    },
+    "replaces": {
+      "value": "Q20241005",
+      "label": "Guillaume Dubot de Launay"
+    },
+    "replacedBy": {
+      "value": "Q2959313",
+      "label": "Charles Harouys"
     },
     "statement": "Q3172071$7DDD048B-D4B4-4B55-8B74-6EF01867D38E",
     "start": "1597-01-01T00:00:00Z",
@@ -401,9 +404,34 @@
       "value": "Q17628795",
       "label": "Gabriel Hus"
     },
+    "replaces": {
+      "value": "Q2959313",
+      "label": "Charles Harouys"
+    },
+    "replacedBy": {
+      "value": "Q17631276",
+      "label": "Julien Laurens"
+    },
     "statement": "Q17628795$8b07131c-4156-ce74-7760-cdbcdfeef77f",
     "start": "1599-01-01T00:00:00Z",
     "end": "1601-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q17631276",
+      "label": "Julien Laurens"
+    },
+    "replaces": {
+      "value": "Q17628795",
+      "label": "Gabriel Hus"
+    },
+    "replacedBy": {
+      "value": "Q17651405",
+      "label": "Yves Le Lou"
+    },
+    "statement": "Q17631276$b3f00db6-480e-520d-a49b-271aad5b71d0",
+    "start": "1601-06-25T00:00:00Z",
+    "end": "1602-06-09T00:00:00Z"
   },
   {
     "item": {
@@ -427,14 +455,47 @@
       "value": "Q16185938",
       "label": "Claude de Cornulier"
     },
+    "replaces": {
+      "value": "Q17651405",
+      "label": "Yves Le Lou"
+    },
+    "replacedBy": {
+      "value": "Q17635092",
+      "label": "Michel Loriot"
+    },
     "statement": "Q16185938$3D12461F-5FF3-46A9-8B27-F8A010438A16",
     "start": "1605-01-01T00:00:00Z",
     "end": "1606-01-01T00:00:00Z"
   },
   {
     "item": {
+      "value": "Q17635092",
+      "label": "Michel Loriot"
+    },
+    "replaces": {
+      "value": "Q16185938",
+      "label": "Claude de Cornulier"
+    },
+    "replacedBy": {
       "value": "Q17638067",
       "label": "René Charette de la Bretonnière"
+    },
+    "statement": "Q17635092$965fc589-4ff6-d402-cbef-8c27e1b24c48",
+    "start": "1607-07-03T00:00:00Z",
+    "end": "1609-07-15T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q17638067",
+      "label": "René Charette de la Bretonnière"
+    },
+    "replaces": {
+      "value": "Q17635092",
+      "label": "Michel Loriot"
+    },
+    "replacedBy": {
+      "value": "Q17630923",
+      "label": "Jean Blanchard"
     },
     "statement": "Q17638067$5ebedaca-4800-fe22-180b-707f6c60bcf0",
     "start": "1609-01-01T00:00:00Z",
@@ -445,6 +506,14 @@
       "value": "Q17630923",
       "label": "Jean Blanchard"
     },
+    "replaces": {
+      "value": "Q17638067",
+      "label": "René Charette de la Bretonnière"
+    },
+    "replacedBy": {
+      "value": "Q17634361",
+      "label": "Louis Charette de La Colinière"
+    },
     "statement": "Q17630923$6ce75084-4ae5-33c0-8df6-e57187dacf76",
     "start": "1611-01-01T00:00:00Z",
     "end": "1613-01-01T00:00:00Z"
@@ -453,6 +522,14 @@
     "item": {
       "value": "Q17634361",
       "label": "Louis Charette de La Colinière"
+    },
+    "replaces": {
+      "value": "Q17630923",
+      "label": "Jean Blanchard"
+    },
+    "replacedBy": {
+      "value": "Q15967144",
+      "label": "Pierre Bernard"
     },
     "statement": "Q17634361$5d2ebf4b-49b7-f392-9d6f-4d976bf96ca6",
     "start": "1613-01-01T00:00:00Z",
@@ -497,6 +574,14 @@
       "value": "Q15967072",
       "label": "Alexandre Charette"
     },
+    "replaces": {
+      "value": "Q17621323",
+      "label": "André Morin"
+    },
+    "replacedBy": {
+      "value": "Q3159838",
+      "label": "Jacques Raoul de La Guibourgère"
+    },
     "statement": "Q15967072$1CC51303-396F-42CE-814C-D85A1948D5EF",
     "start": "1619-01-01T00:00:00Z",
     "end": "1621-01-01T00:00:00Z"
@@ -505,6 +590,14 @@
     "item": {
       "value": "Q3159838",
       "label": "Jacques Raoul de La Guibourgère"
+    },
+    "replaces": {
+      "value": "Q15967072",
+      "label": "Alexandre Charette"
+    },
+    "replacedBy": {
+      "value": "Q16661358",
+      "label": "Louis de Harouys"
     },
     "statement": "Q3159838$39110A9D-E30B-42A1-BD1E-4D715EF1503D",
     "start": "1621-01-01T00:00:00Z",
@@ -515,6 +608,14 @@
       "value": "Q16661358",
       "label": "Louis de Harouys"
     },
+    "replaces": {
+      "value": "Q3159838",
+      "label": "Jacques Raoul de La Guibourgère"
+    },
+    "replacedBy": {
+      "value": "Q16645603",
+      "label": "Jean de Harouys"
+    },
     "statement": "Q16661358$200914BD-F545-47A8-8DF7-DF8EBC5EE9F8",
     "start": "1623-01-01T00:00:00Z",
     "end": "1625-01-01T00:00:00Z"
@@ -523,6 +624,14 @@
     "item": {
       "value": "Q16645603",
       "label": "Jean de Harouys"
+    },
+    "replaces": {
+      "value": "Q16661358",
+      "label": "Louis de Harouys"
+    },
+    "replacedBy": {
+      "value": "Q3426627",
+      "label": "René Mesnardeau"
     },
     "statement": "Q16645603$7F63AD86-4CE8-4DF3-AEB6-071EF56D1798",
     "start": "1625-01-01T00:00:00Z",
@@ -533,6 +642,14 @@
       "value": "Q3426627",
       "label": "René Mesnardeau"
     },
+    "replaces": {
+      "value": "Q16645603",
+      "label": "Jean de Harouys"
+    },
+    "replacedBy": {
+      "value": "Q3427051",
+      "label": "René de La Tullaye"
+    },
     "statement": "Q3426627$0AB393FB-9FE1-4E2E-8442-68110238C3B5",
     "start": "1627-01-01T00:00:00Z",
     "end": "1629-01-01T00:00:00Z"
@@ -541,6 +658,14 @@
     "item": {
       "value": "Q3427051",
       "label": "René de La Tullaye"
+    },
+    "replaces": {
+      "value": "Q3426627",
+      "label": "René Mesnardeau"
+    },
+    "replacedBy": {
+      "value": "Q3119686",
+      "label": "Guillaume Blanchard"
     },
     "statement": "Q3427051$A3ADBC59-BB0D-47DF-8927-7B4A637B2DA9",
     "start": "1629-01-01T00:00:00Z",
@@ -551,6 +676,14 @@
       "value": "Q3119686",
       "label": "Guillaume Blanchard"
     },
+    "replaces": {
+      "value": "Q3427051",
+      "label": "René de La Tullaye"
+    },
+    "replacedBy": {
+      "value": "Q3425832",
+      "label": "René Bernard"
+    },
     "statement": "Q3119686$BA2BCFF1-6497-474E-9180-9180CDD565C4",
     "start": "1631-01-01T00:00:00Z",
     "end": "1632-01-01T00:00:00Z"
@@ -560,14 +693,47 @@
       "value": "Q3425832",
       "label": "René Bernard"
     },
+    "replaces": {
+      "value": "Q3119686",
+      "label": "Guillaume Blanchard"
+    },
+    "replacedBy": {
+      "value": "Q2848887",
+      "label": "André du Bot"
+    },
     "statement": "Q3425832$B708148A-CBF0-473D-8C66-D09F8F014143",
     "start": "1633-01-01T00:00:00Z",
     "end": "1634-01-01T00:00:00Z"
   },
   {
     "item": {
+      "value": "Q2848887",
+      "label": "André du Bot"
+    },
+    "replaces": {
+      "value": "Q3425832",
+      "label": "René Bernard"
+    },
+    "replacedBy": {
       "value": "Q3425991",
       "label": "René Charette"
+    },
+    "statement": "Q2848887$043C6151-3AF3-4765-AB56-14A57B92D31A",
+    "start": "1634-09-25T00:00:00Z",
+    "end": "1636-12-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3425991",
+      "label": "René Charette"
+    },
+    "replaces": {
+      "value": "Q2848887",
+      "label": "André du Bot"
+    },
+    "replacedBy": {
+      "value": "Q17628589",
+      "label": "François Bourgogne"
     },
     "statement": "Q3425991$046A2CB2-AB61-4E72-8F27-40B0951BB3C7",
     "start": "1636-01-01T00:00:00Z",
@@ -575,8 +741,33 @@
   },
   {
     "item": {
+      "value": "Q17628589",
+      "label": "François Bourgogne"
+    },
+    "replaces": {
+      "value": "Q3425991",
+      "label": "René Charette"
+    },
+    "replacedBy": {
       "value": "Q15967147",
       "label": "Pierre Poullain"
+    },
+    "statement": "Q17628589$b8dd8af7-48bd-afd0-4dcf-03292e908641",
+    "start": "1637-12-28T00:00:00Z",
+    "end": "1639-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q15967147",
+      "label": "Pierre Poullain"
+    },
+    "replaces": {
+      "value": "Q17628589",
+      "label": "François Bourgogne"
+    },
+    "replacedBy": {
+      "value": "Q17624747",
+      "label": "Christophe Juchault"
     },
     "statement": "Q15967147$19C18ED9-C8F5-4E58-9085-A1254054A653",
     "start": "1639-01-01T00:00:00Z",
@@ -603,6 +794,14 @@
     "item": {
       "value": "Q16683815",
       "label": "Yves de Monti"
+    },
+    "replaces": {
+      "value": "Q17624747",
+      "label": "Christophe Juchault"
+    },
+    "replacedBy": {
+      "value": "Q15973878",
+      "label": "Jacques de Bourgues"
     },
     "statement": "Q16683815$FC819E79-6F98-449A-B745-CD3FFADFF24A",
     "start": "1642-01-01T00:00:00Z",
@@ -647,6 +846,14 @@
       "value": "Q17630933",
       "label": "Jean Charette"
     },
+    "replaces": {
+      "value": "Q17634907",
+      "label": "Mathurin Boux"
+    },
+    "replacedBy": {
+      "value": "Q17624956",
+      "label": "Claude Bidé"
+    },
     "statement": "Q17630933$c6039910-4480-ffeb-4f32-cd3860303e73",
     "start": "1650-01-01T00:00:00Z",
     "end": "1651-01-01T00:00:00Z"
@@ -656,14 +863,47 @@
       "value": "Q17624956",
       "label": "Claude Bidé"
     },
+    "replaces": {
+      "value": "Q17630933",
+      "label": "Jean Charette"
+    },
+    "replacedBy": {
+      "value": "Q18214986",
+      "label": "Jean Fournier"
+    },
     "statement": "Q17624956$05d4f987-4294-e77f-387e-8f800d3352e7",
     "start": "1652-01-01T00:00:00Z",
     "end": "1653-01-01T00:00:00Z"
   },
   {
     "item": {
+      "value": "Q18214986",
+      "label": "Jean Fournier"
+    },
+    "replaces": {
+      "value": "Q17624956",
+      "label": "Claude Bidé"
+    },
+    "replacedBy": {
       "value": "Q15967148",
       "label": "René de Pontual"
+    },
+    "statement": "Q18214986$2A648C7A-6987-4FF6-B0D1-A87A24796A4D",
+    "start": "1654-01-01T00:00:00Z",
+    "end": "1655-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q15967148",
+      "label": "René de Pontual"
+    },
+    "replaces": {
+      "value": "Q18214986",
+      "label": "Jean Fournier"
+    },
+    "replacedBy": {
+      "value": "Q17630657",
+      "label": "Jacques Husteau"
     },
     "statement": "Q15967148$6DCE1B82-230A-488E-B326-6C53A75CD53E",
     "start": "1657-01-01T00:00:00Z",
@@ -674,14 +914,98 @@
       "value": "Q17630657",
       "label": "Jacques Husteau"
     },
+    "replaces": {
+      "value": "Q15967148",
+      "label": "René de Pontual"
+    },
+    "replacedBy": {
+      "value": "Q15967149",
+      "label": "Jean Poullain"
+    },
     "statement": "Q17630657$8e7435e4-4e07-0152-251e-04b90a46dbe3",
     "start": "1659-01-01T00:00:00Z",
     "end": "1660-01-01T00:00:00Z"
   },
   {
     "item": {
+      "value": "Q15967149",
+      "label": "Jean Poullain"
+    },
+    "replaces": {
+      "value": "Q17630657",
+      "label": "Jacques Husteau"
+    },
+    "replacedBy": {
+      "value": "Q17634377",
+      "label": "Louis Macé"
+    },
+    "statement": "Q15967149$AE24D22C-940D-459F-B4DA-D0E6CFDC3962",
+    "start": "1661-01-01T00:00:00Z",
+    "end": "1662-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q17634377",
+      "label": "Louis Macé"
+    },
+    "replaces": {
+      "value": "Q15967149",
+      "label": "Jean Poullain"
+    },
+    "replacedBy": {
+      "value": "Q17634909",
+      "label": "Mathurin Giraud"
+    },
+    "statement": "Q17634377$57f3b6b7-4b1e-9779-93b7-74201f01a8a2",
+    "start": "1663-01-01T00:00:00Z",
+    "end": "1664-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q17634909",
+      "label": "Mathurin Giraud"
+    },
+    "replaces": {
+      "value": "Q17634377",
+      "label": "Louis Macé"
+    },
+    "replacedBy": {
+      "value": "Q17628607",
+      "label": "François Lorido"
+    },
+    "statement": "Q17634909$04d35a46-4736-1b51-d6e1-1b84927fb14d",
+    "start": "1665-01-01T00:00:00Z",
+    "end": "1666-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q17628607",
+      "label": "François Lorido"
+    },
+    "replaces": {
+      "value": "Q17634909",
+      "label": "Mathurin Giraud"
+    },
+    "replacedBy": {
       "value": "Q17630643",
       "label": "Jacques Charette"
+    },
+    "statement": "Q17628607$7068db15-4684-62b0-9b59-7a38acdcdf31",
+    "start": "1666-01-01T00:00:00Z",
+    "end": "1667-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q17630643",
+      "label": "Jacques Charette"
+    },
+    "replaces": {
+      "value": "Q17628607",
+      "label": "François Lorido"
+    },
+    "replacedBy": {
+      "value": "Q17629352",
+      "label": "Gratien Libault"
     },
     "statement": "Q17630643$b288aea2-4280-c510-2a27-9838daf5312f",
     "start": "1669-01-01T00:00:00Z",
@@ -689,8 +1013,33 @@
   },
   {
     "item": {
+      "value": "Q17629352",
+      "label": "Gratien Libault"
+    },
+    "replaces": {
+      "value": "Q17630643",
+      "label": "Jacques Charette"
+    },
+    "replacedBy": {
       "value": "Q17630986",
       "label": "Jean Régnier"
+    },
+    "statement": "Q17629352$a85fbb03-4d4b-114d-57cf-ef7637dfc8af",
+    "start": "1671-01-01T00:00:00Z",
+    "end": "1672-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q17630986",
+      "label": "Jean Régnier"
+    },
+    "replaces": {
+      "value": "Q17629352",
+      "label": "Gratien Libault"
+    },
+    "replacedBy": {
+      "value": "Q17634358",
+      "label": "Louis Charette"
     },
     "statement": "Q17630986$10122be1-40ba-29ef-ec85-e1bfefa31805",
     "start": "1673-01-01T00:00:00Z",
@@ -700,6 +1049,14 @@
     "item": {
       "value": "Q17634358",
       "label": "Louis Charette"
+    },
+    "replaces": {
+      "value": "Q17630986",
+      "label": "Jean Régnier"
+    },
+    "replacedBy": {
+      "value": "Q17176190",
+      "label": "Charles-César Chevalier"
     },
     "statement": "Q17634358$f7d7ec0f-45c5-7911-f38f-03853b738e9f",
     "start": "1675-01-01T00:00:00Z",
@@ -724,8 +1081,33 @@
   },
   {
     "item": {
+      "value": "Q17154152",
+      "label": "Jacques Fremon"
+    },
+    "replaces": {
+      "value": "Q17176190",
+      "label": "Charles-César Chevalier"
+    },
+    "replacedBy": {
       "value": "Q17634382",
       "label": "Louis Mesnard"
+    },
+    "statement": "Q17154152$9244ceae-435c-2b1d-16c6-cc8a3abb3266",
+    "start": "1679-01-01T00:00:00Z",
+    "end": "1681-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q17634382",
+      "label": "Louis Mesnard"
+    },
+    "replaces": {
+      "value": "Q17154152",
+      "label": "Jacques Fremon"
+    },
+    "replacedBy": {
+      "value": "Q17624958",
+      "label": "Claude Bidé"
     },
     "statement": "Q17634382$13101cb8-422d-effe-b9b5-47c244608551",
     "start": "1682-01-01T00:00:00Z",
@@ -736,6 +1118,14 @@
       "value": "Q17624958",
       "label": "Claude Bidé"
     },
+    "replaces": {
+      "value": "Q17634382",
+      "label": "Louis Mesnard"
+    },
+    "replacedBy": {
+      "value": "Q16640569",
+      "label": "Guillaume de Lisle"
+    },
     "statement": "Q17624958$fdc76a05-4ab1-d938-c4ff-c1f61b7c834f",
     "start": "1684-01-01T00:00:00Z",
     "end": "1684-01-01T00:00:00Z"
@@ -745,9 +1135,34 @@
       "value": "Q16640569",
       "label": "Guillaume de Lisle"
     },
+    "replaces": {
+      "value": "Q17624958",
+      "label": "Claude Bidé"
+    },
+    "replacedBy": {
+      "value": "Q16669251",
+      "label": "Paul Cassard"
+    },
     "statement": "Q16640569$6549BD40-E3F2-49E6-8AFC-B19989801474",
     "start": "1685-01-01T00:00:00Z",
     "end": "1688-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q16669251",
+      "label": "Paul Cassard"
+    },
+    "replaces": {
+      "value": "Q16640569",
+      "label": "Guillaume de Lisle"
+    },
+    "replacedBy": {
+      "value": "Q16670046",
+      "label": "Pierre Noblet du Vilo"
+    },
+    "statement": "Q16669251$26C8E1B6-53FB-4BA4-BB57-05EB2620BF25",
+    "start": "1688-01-01T00:00:00Z",
+    "end": "1689-01-01T00:00:00Z"
   },
   {
     "item": {
@@ -787,6 +1202,14 @@
     "item": {
       "value": "Q54502197",
       "label": "Joseph Le Roux"
+    },
+    "replaces": {
+      "value": "Q16647572",
+      "label": "Julien Proust"
+    },
+    "replacedBy": {
+      "value": "Q16647572",
+      "label": "Julien Proust"
     },
     "statement": "Q54502197$9a9f702a-43f0-d428-b509-404ba17e45f6",
     "start": "1708-01-01T00:00:00Z",
@@ -862,12 +1285,63 @@
   },
   {
     "item": {
+      "value": "Q20241014",
+      "label": "Jean-François Védier"
+    },
+    "replaces": {
+      "value": "Q17638070",
+      "label": "René Le Ray"
+    },
+    "replacedBy": {
+      "value": "Q16186024",
+      "label": "René Darquistade"
+    },
+    "statement": "Q20241014$d9189e5a-4581-4dfa-90db-7a51674f8c47",
+    "start": "1732-01-01T00:00:00Z",
+    "end": "1735-01-01T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q16186024",
       "label": "René Darquistade"
     },
     "statement": "Q16186024$DA30CE04-6B43-4FBF-BC49-A207A760AE4F",
     "start": "1735-01-01T00:00:00Z",
     "end": "1737-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q20240977",
+      "label": "Claude Petit"
+    },
+    "replaces": {
+      "value": "Q16186024",
+      "label": "René Darquistade"
+    },
+    "replacedBy": {
+      "value": "Q17628611",
+      "label": "François Moricaud"
+    },
+    "statement": "Q20240977$24d22a6b-4087-09c0-b358-fbe4636c4330",
+    "start": "1736-01-01T00:00:00Z",
+    "end": "1737-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q17628611",
+      "label": "François Moricaud"
+    },
+    "replaces": {
+      "value": "Q20240977",
+      "label": "Claude Petit"
+    },
+    "replacedBy": {
+      "value": "Q16186024",
+      "label": "René Darquistade"
+    },
+    "statement": "Q17628611$a1b4d1cf-49cc-c6a0-f87f-ca9690e642c9",
+    "start": "1738-01-01T00:00:00Z",
+    "end": "1739-01-01T00:00:00Z"
   },
   {
     "item": {
@@ -880,8 +1354,33 @@
   },
   {
     "item": {
+      "value": "Q20241001",
+      "label": "François-Pierre Durocher"
+    },
+    "replaces": {
+      "value": "Q16186024",
+      "label": "René Darquistade"
+    },
+    "replacedBy": {
       "value": "Q20241030",
       "label": "Mathurin Bellabre"
+    },
+    "statement": "Q20241001$2e3ad315-4814-c900-81bf-23a3cfe5a2f5",
+    "start": "1747-01-01T00:00:00Z",
+    "end": "1747-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q20241030",
+      "label": "Mathurin Bellabre"
+    },
+    "replaces": {
+      "value": "Q20241001",
+      "label": "François-Pierre Durocher"
+    },
+    "replacedBy": {
+      "value": "Q17352238",
+      "label": "Jean-Baptiste Gellée de Prémion"
     },
     "statement": "Q20241030$c466c6a7-4c2a-22d8-81a6-c3b23942d011",
     "start": "1748-01-01T00:00:00Z",
@@ -923,23 +1422,6 @@
   },
   {
     "item": {
-      "value": "Q17352238",
-      "label": "Jean-Baptiste Gellée de Prémion"
-    },
-    "replaces": {
-      "value": "Q15967354",
-      "label": "Pierre de la Ville de Chambardet"
-    },
-    "replacedBy": {
-      "value": "Q17630848",
-      "label": "Jean-Jacques Berrouette"
-    },
-    "statement": "Q17352238$a332096e-4bb9-12d7-5066-0e34ab136b46",
-    "start": "1762-01-01T00:00:00Z",
-    "end": "1782-01-01T00:00:00Z"
-  },
-  {
-    "item": {
       "value": "Q17628600",
       "label": "François Libault"
     },
@@ -960,6 +1442,14 @@
       "value": "Q20241047",
       "label": "Philippe Vincent Roger"
     },
+    "replaces": {
+      "value": "Q17628600",
+      "label": "François Libault"
+    },
+    "replacedBy": {
+      "value": "Q15967354",
+      "label": "Pierre de la Ville de Chambardet"
+    },
     "statement": "Q20241047$15b6081a-4bb6-8b3b-c44c-7726e93f135a",
     "start": "1770-01-01T00:00:00Z",
     "end": "1772-01-01T00:00:00Z"
@@ -969,9 +1459,34 @@
       "value": "Q15967354",
       "label": "Pierre de la Ville de Chambardet"
     },
+    "replaces": {
+      "value": "Q20241047",
+      "label": "Philippe Vincent Roger"
+    },
+    "replacedBy": {
+      "value": "Q17352238",
+      "label": "Jean-Baptiste Gellée de Prémion"
+    },
     "statement": "Q15967354$45DA2636-234A-4115-A746-177ACC39CFC5",
     "start": "1772-01-01T00:00:00Z",
     "end": "1776-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q17352238",
+      "label": "Jean-Baptiste Gellée de Prémion"
+    },
+    "replaces": {
+      "value": "Q15967354",
+      "label": "Pierre de la Ville de Chambardet"
+    },
+    "replacedBy": {
+      "value": "Q17630848",
+      "label": "Jean-Jacques Berrouette"
+    },
+    "statement": "Q17352238$a332096e-4bb9-12d7-5066-0e34ab136b46",
+    "start": "1776-01-01T00:00:00Z",
+    "end": "1782-01-01T00:00:00Z"
   },
   {
     "item": {
@@ -988,6 +1503,23 @@
     },
     "statement": "Q17630848$2a1b546b-48b4-5d69-71b9-0cafc9625744",
     "start": "1782-01-01T00:00:00Z",
+    "end": "1786-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q17629003",
+      "label": "Georges Guérin de Beaumont"
+    },
+    "replaces": {
+      "value": "Q17630848",
+      "label": "Jean-Jacques Berrouette"
+    },
+    "replacedBy": {
+      "value": "Q17636692",
+      "label": "Pierre Richard de la Pervanchère"
+    },
+    "statement": "Q17629003$31f59d75-4f39-891f-0041-5a1fd4eeb4f1",
+    "start": "1786-01-01T00:00:00Z",
     "end": "1786-01-01T00:00:00Z"
   },
   {
@@ -1141,7 +1673,8 @@
       "label": "François Fellonneau"
     },
     "statement": "Q3260731$E4726B8F-D298-4047-A06B-5354CE4E7FFF",
-    "start": "1798-01-01T00:00:00Z"
+    "start": "1798-01-01T00:00:00Z",
+    "end": "1798-01-01T00:00:00Z"
   },
   {
     "item": {
@@ -1164,6 +1697,14 @@
     "item": {
       "value": "Q2976836",
       "label": "Claude-Sylvain Pâris"
+    },
+    "replaces": {
+      "value": "Q3084604",
+      "label": "François Fellonneau"
+    },
+    "replacedBy": {
+      "value": "Q2871666",
+      "label": "Augustin de Loynes"
     },
     "statement": "Q2976836$269802E3-4646-4AB0-ACAF-F4584F0FD421",
     "start": "1801-06-02T00:00:00Z",
@@ -1197,6 +1738,23 @@
   },
   {
     "item": {
+      "value": "Q3163878",
+      "label": "Jean-Baptiste Bertrand-Geslin"
+    },
+    "replaces": {
+      "value": "Q2871666",
+      "label": "Augustin de Loynes"
+    },
+    "replacedBy": {
+      "value": "Q3083526",
+      "label": "François-Marie-Bonaventure du Fou"
+    },
+    "statement": "Q3163878$B862AB80-20FE-4FE2-8B1F-C41AA6710DEC",
+    "start": "1805-01-01T00:00:00Z",
+    "end": "1813-01-01T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q3083526",
       "label": "François-Marie-Bonaventure du Fou"
     },
@@ -1209,7 +1767,41 @@
       "label": "Jean-Baptiste Bertrand-Geslin"
     },
     "statement": "Q3083526$22134CE3-F591-4FF1-AAB1-C82283DC9077",
-    "start": "1813-01-01T00:00:00Z",
+    "start": "1813-05-17T00:00:00Z",
+    "end": "1815-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3163878",
+      "label": "Jean-Baptiste Bertrand-Geslin"
+    },
+    "replaces": {
+      "value": "Q3083526",
+      "label": "François-Marie-Bonaventure du Fou"
+    },
+    "replacedBy": {
+      "value": "Q3301588",
+      "label": "Maurice Étiennez"
+    },
+    "statement": "Q3163878$30B4A846-F921-402E-AB68-C488BD68D0D1",
+    "start": "1815-01-01T00:00:00Z",
+    "end": "1815-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3301588",
+      "label": "Maurice Étiennez"
+    },
+    "replaces": {
+      "value": "Q3163878",
+      "label": "Jean-Baptiste Bertrand-Geslin"
+    },
+    "replacedBy": {
+      "value": "Q3083526",
+      "label": "François-Marie-Bonaventure du Fou"
+    },
+    "statement": "Q3301588$D044A8DD-A368-4AF0-8C5E-B7B6EBB2AD61",
+    "start": "1815-01-01T00:00:00Z",
     "end": "1815-01-01T00:00:00Z"
   },
   {
@@ -1226,8 +1818,8 @@
       "label": "Louis Rousseau de Saint-Aignan"
     },
     "statement": "Q3083526$372baecd-4815-8962-b13d-e019f2b99b65",
-    "start": "1815-01-01T00:00:00Z",
-    "end": "1816-01-01T00:00:00Z"
+    "start": "1815-07-19T00:00:00Z",
+    "end": "1816-08-01T00:00:00Z"
   },
   {
     "item": {
@@ -1265,8 +1857,33 @@
   },
   {
     "item": {
+      "value": "Q3301588",
+      "label": "Maurice Étiennez"
+    },
+    "replaces": {
+      "value": "Q3260597",
+      "label": "Louis-Hyacinthe Levesque"
+    },
+    "replacedBy": {
       "value": "Q3379187",
       "label": "Philippe-René Soubzmain"
+    },
+    "statement": "Q3301588$AA7BAFA8-AC19-4857-8E50-2B64461C11D2",
+    "start": "1830-01-01T00:00:00Z",
+    "end": "1830-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3379187",
+      "label": "Philippe-René Soubzmain"
+    },
+    "replaces": {
+      "value": "Q3301588",
+      "label": "Maurice Étiennez"
+    },
+    "replacedBy": {
+      "value": "Q3068557",
+      "label": "Ferdinand Favre"
     },
     "statement": "Q3379187$2E006272-E6C5-45B5-99C0-2C5DD57AD0E8",
     "start": "1830-01-01T00:00:00Z",
@@ -1285,6 +1902,14 @@
     "item": {
       "value": "Q3592731",
       "label": "Évariste Colombel"
+    },
+    "replaces": {
+      "value": "Q3068557",
+      "label": "Ferdinand Favre"
+    },
+    "replacedBy": {
+      "value": "Q3068557",
+      "label": "Ferdinand Favre"
     },
     "statement": "Q3592731$97EE39DD-8656-40B1-ACA3-CE93C5CE1E5A",
     "start": "1848-01-01T00:00:00Z",
@@ -1318,8 +1943,33 @@
   },
   {
     "item": {
+      "value": "Q434725",
+      "label": "René Waldeck-Rousseau"
+    },
+    "replaces": {
+      "value": "Q2853895",
+      "label": "Antoine Dufour"
+    },
+    "replacedBy": {
       "value": "Q2864458",
       "label": "Arsène Leloup"
+    },
+    "statement": "Q434725$DC62F8D3-79E5-423F-98B1-FC3C40773E36",
+    "start": "1870-01-01T00:00:00Z",
+    "end": "1871-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q2864458",
+      "label": "Arsène Leloup"
+    },
+    "replaces": {
+      "value": "Q434725",
+      "label": "René Waldeck-Rousseau"
+    },
+    "replacedBy": {
+      "value": "Q434725",
+      "label": "René Waldeck-Rousseau"
     },
     "statement": "Q2864458$C407C09C-42B3-48C3-AF7F-593D3CC68058",
     "start": "1871-01-01T00:00:00Z",
@@ -1330,9 +1980,17 @@
       "value": "Q434725",
       "label": "René Waldeck-Rousseau"
     },
-    "statement": "Q434725$B80ABE52-D22F-43F6-8BF7-D6168684DA4E",
+    "replaces": {
+      "value": "Q2864458",
+      "label": "Arsène Leloup"
+    },
+    "replacedBy": {
+      "value": "Q3427041",
+      "label": "René de Cornulier"
+    },
+    "statement": "Q434725$FA557357-A3F5-4A46-B21B-0EE81959CA80",
     "start": "1872-01-01T00:00:00Z",
-    "end": "1873-01-01T00:00:00Z"
+    "end": "1873-06-01T00:00:00Z"
   },
   {
     "item": {
@@ -1356,6 +2014,14 @@
       "value": "Q3427041",
       "label": "René de Cornulier"
     },
+    "replaces": {
+      "value": "Q434725",
+      "label": "René Waldeck-Rousseau"
+    },
+    "replacedBy": {
+      "value": "Q3189309",
+      "label": "Julien-Charles Lechat"
+    },
     "statement": "Q3427041$2DA5F94D-B4E1-4DD3-A089-3D95F58619A4",
     "start": "1874-03-01T00:00:00Z",
     "end": "1874-12-01T00:00:00Z"
@@ -1364,6 +2030,14 @@
     "item": {
       "value": "Q3102146",
       "label": "Georges-Évariste Colombel"
+    },
+    "replaces": {
+      "value": "Q3299005",
+      "label": "Mathurin Brissonneau"
+    },
+    "replacedBy": {
+      "value": "Q3579975",
+      "label": "Édouard Normand"
     },
     "statement": "Q3102146$D8C1651D-4547-4906-BEF3-B76FEC27F420",
     "start": "1881-01-01T00:00:00Z",
@@ -1390,6 +2064,10 @@
     "item": {
       "value": "Q3579975",
       "label": "Édouard Normand"
+    },
+    "replaces": {
+      "value": "Q3102146",
+      "label": "Georges-Évariste Colombel"
     },
     "replacedBy": {
       "value": "Q3056991",
@@ -1420,6 +2098,14 @@
     "item": {
       "value": "Q2835424",
       "label": "Alfred Riom"
+    },
+    "replaces": {
+      "value": "Q3056991",
+      "label": "Ernest Guibourd de Luzinais"
+    },
+    "replacedBy": {
+      "value": "Q3136009",
+      "label": "Hippolyte-Étienne Etiennez"
     },
     "statement": "Q2835424$A23CFB2F-C4B9-41E4-90CE-4A94EEC44607",
     "start": "1892-01-01T00:00:00Z",
@@ -1461,15 +2147,6 @@
   },
   {
     "item": {
-      "value": "Q2404053",
-      "label": "Gabriel Guist'hau"
-    },
-    "statement": "Q2404053$D4FFD4F5-8B9A-4C9C-8B4F-6FCEC2B7A905",
-    "start": "1908-01-01T00:00:00Z",
-    "end": "1910-01-01T00:00:00Z"
-  },
-  {
-    "item": {
       "value": "Q3184699",
       "label": "Joseph Canal"
     },
@@ -1477,9 +2154,30 @@
       "value": "Q3370401",
       "label": "Paul-Émile Sarradin"
     },
+    "replacedBy": {
+      "value": "Q2404053",
+      "label": "Gabriel Guist'hau"
+    },
     "statement": "Q3184699$09B964B5-8D51-488D-9611-60444CCC8AFA",
     "start": "1908-04-07T00:00:00Z",
     "end": "1908-05-17T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q2404053",
+      "label": "Gabriel Guist'hau"
+    },
+    "replaces": {
+      "value": "Q3184699",
+      "label": "Joseph Canal"
+    },
+    "replacedBy": {
+      "value": "Q3370603",
+      "label": "Paul Bellamy"
+    },
+    "statement": "Q2404053$D4FFD4F5-8B9A-4C9C-8B4F-6FCEC2B7A905",
+    "start": "1908-05-01T00:00:00Z",
+    "end": "1910-01-01T00:00:00Z"
   },
   {
     "item": {
@@ -1496,7 +2194,24 @@
     },
     "statement": "Q3370603$ED6A519B-ED22-4FCC-99B1-23256681D47A",
     "start": "1910-01-01T00:00:00Z",
-    "end": "1928-01-01T00:00:00Z"
+    "end": "1928-05-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3099171",
+      "label": "Gaston Veil"
+    },
+    "replaces": {
+      "value": "Q3370603",
+      "label": "Paul Bellamy"
+    },
+    "replacedBy": {
+      "value": "Q2824877",
+      "label": "Adolphe Moitié"
+    },
+    "statement": "Q3099171$ABF1047D-FAEE-4D72-A669-D5E7DCB306FD",
+    "start": "1928-05-10T00:00:00Z",
+    "end": "1928-06-02T00:00:00Z"
   },
   {
     "item": {
@@ -1512,7 +2227,7 @@
       "label": "Léopold Cassegrain"
     },
     "statement": "Q2824877$4E8DFCC5-8910-4DC7-A2FF-016B77775A42",
-    "start": "1928-01-01T00:00:00Z",
+    "start": "1928-06-02T00:00:00Z",
     "end": "1929-01-01T00:00:00Z"
   },
   {
@@ -1537,18 +2252,170 @@
       "value": "Q2871346",
       "label": "Auguste Pageot"
     },
+    "replaces": {
+      "value": "Q3271778",
+      "label": "Léopold Cassegrain"
+    },
+    "replacedBy": {
+      "value": "Q3047960",
+      "label": "Edmond Prieur"
+    },
     "statement": "Q2871346$9DC597F1-C159-49E0-B931-B926F53D717B",
     "start": "1935-01-01T00:00:00Z",
     "end": "1940-01-01T00:00:00Z"
   },
   {
     "item": {
+      "value": "Q3047960",
+      "label": "Edmond Prieur"
+    },
+    "replaces": {
+      "value": "Q2871346",
+      "label": "Auguste Pageot"
+    },
+    "replacedBy": {
+      "value": "Q3099930",
+      "label": "Gaëtan Rondeau"
+    },
+    "statement": "Q3047960$C0C512EA-53EB-45E3-8CBE-D346F18DBF33",
+    "start": "1940-01-01T00:00:00Z",
+    "end": "1941-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3099930",
+      "label": "Gaëtan Rondeau"
+    },
+    "replaces": {
+      "value": "Q3047960",
+      "label": "Edmond Prieur"
+    },
+    "replacedBy": {
+      "value": "Q3132985",
+      "label": "Henry Orrion"
+    },
+    "statement": "Q3099930$DF2D87FB-F42D-44B4-A0FF-151944672CC7",
+    "start": "1941-01-01T00:00:00Z",
+    "end": "1942-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3132985",
+      "label": "Henry Orrion"
+    },
+    "replaces": {
+      "value": "Q3099930",
+      "label": "Gaëtan Rondeau"
+    },
+    "replacedBy": {
+      "value": "Q2979743",
+      "label": "Clovis Constant"
+    },
+    "statement": "Q3132985$B8AD7C4E-25AF-4802-B393-8AEA571CC647",
+    "start": "1942-01-01T00:00:00Z",
+    "end": "1944-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q2979743",
+      "label": "Clovis Constant"
+    },
+    "replaces": {
+      "value": "Q3132985",
+      "label": "Henry Orrion"
+    },
+    "replacedBy": {
       "value": "Q3173967",
       "label": "Jean Philippot"
+    },
+    "statement": "Q2979743$919DDE57-A3FF-4765-8C93-03983243BA0A",
+    "start": "1944-01-01T00:00:00Z",
+    "end": "1945-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3173967",
+      "label": "Jean Philippot"
+    },
+    "replaces": {
+      "value": "Q2979743",
+      "label": "Clovis Constant"
+    },
+    "replacedBy": {
+      "value": "Q3132985",
+      "label": "Henry Orrion"
     },
     "statement": "Q3173967$FDBC76B8-6D34-47A5-88C8-0035C71FCB6E",
     "start": "1945-01-01T00:00:00Z",
     "end": "1947-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3132985",
+      "label": "Henry Orrion"
+    },
+    "replaces": {
+      "value": "Q3173967",
+      "label": "Jean Philippot"
+    },
+    "replacedBy": {
+      "value": "Q2848330",
+      "label": "André Morice"
+    },
+    "statement": "Q3132985$F199A9D6-9611-48FD-A897-ADFD83BA0560",
+    "start": "1947-01-01T00:00:00Z",
+    "end": "1965-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q2848330",
+      "label": "André Morice"
+    },
+    "replaces": {
+      "value": "Q3132985",
+      "label": "Henry Orrion"
+    },
+    "replacedBy": {
+      "value": "Q2829669",
+      "label": "Alain Chénard"
+    },
+    "statement": "Q2848330$FA77478D-395E-45C6-AEA2-86D0FE7CEBEF",
+    "start": "1965-01-01T00:00:00Z",
+    "end": "1977-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q2829669",
+      "label": "Alain Chénard"
+    },
+    "replaces": {
+      "value": "Q2848330",
+      "label": "André Morice"
+    },
+    "replacedBy": {
+      "value": "Q3309257",
+      "label": "Michel Chauty"
+    },
+    "statement": "Q2829669$CBBF03D0-9712-45F6-8D34-718F0BC784AC",
+    "start": "1977-01-01T00:00:00Z",
+    "end": "1983-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3309257",
+      "label": "Michel Chauty"
+    },
+    "replaces": {
+      "value": "Q2829669",
+      "label": "Alain Chénard"
+    },
+    "replacedBy": {
+      "value": "Q7711",
+      "label": "Jean-Marc Ayrault"
+    },
+    "statement": "Q3309257$3A34D038-CB21-4F1A-AD3E-DC1465FAE3F4",
+    "start": "1983-01-01T00:00:00Z",
+    "end": "1989-01-01T00:00:00Z"
   },
   {
     "item": {
