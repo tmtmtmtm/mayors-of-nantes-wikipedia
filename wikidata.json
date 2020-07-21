@@ -1,24 +1,6 @@
 [
   {
     "item": {
-      "value": "Q3301588",
-      "label": "Maurice Étiennez"
-    },
-    "statement": "Q3301588$6C12D9A7-C2B3-4157-8940-C926B0BF2EFB"
-  },
-  {
-    "item": {
-      "value": "Q3132985",
-      "label": "Henry Orrion"
-    },
-    "replacedBy": {
-      "value": "Q2848330",
-      "label": "André Morice"
-    },
-    "statement": "Q3132985$65B7C238-1F70-44DB-9E14-3FD7DF168FD5"
-  },
-  {
-    "item": {
       "value": "Q3101128",
       "label": "Geoffroy Drouet"
     },
@@ -61,7 +43,8 @@
       "label": "Pierre de Cornulier de la Touche"
     },
     "statement": "Q16010455$4C4461E4-69F3-4273-A37A-178384A28113",
-    "start": "1568-01-01T00:00:00Z"
+    "start": "1568-01-01T00:00:00Z",
+    "end": "1568-01-01T00:00:00Z"
   },
   {
     "item": {
@@ -94,7 +77,8 @@
       "label": "Guillaume Harouys"
     },
     "statement": "Q3173609$956262d9-4f90-3591-0e90-799be32d8371",
-    "start": "1571-01-01T00:00:00Z"
+    "start": "1571-01-01T00:00:00Z",
+    "end": "1571-01-01T00:00:00Z"
   },
   {
     "item": {
@@ -144,7 +128,8 @@
       "label": "Jean Boutin"
     },
     "statement": "Q17630652$a95bfa95-4bde-7989-affd-7830a7eb09e6",
-    "start": "1574-01-01T00:00:00Z"
+    "start": "1574-01-01T00:00:00Z",
+    "end": "1574-01-01T00:00:00Z"
   },
   {
     "item": {
@@ -160,7 +145,8 @@
       "label": "Robert Poullain"
     },
     "statement": "Q17630927$7da0877d-4f86-ee04-58c8-da4e1e857638",
-    "start": "1575-01-01T00:00:00Z"
+    "start": "1575-01-01T00:00:00Z",
+    "end": "1575-01-01T00:00:00Z"
   },
   {
     "item": {
@@ -193,7 +179,8 @@
       "label": "François Myron"
     },
     "statement": "Q17635089$09f3fe4b-4ea6-f4e4-7885-011c351c3e8c",
-    "start": "1577-01-01T00:00:00Z"
+    "start": "1577-01-01T00:00:00Z",
+    "end": "1577-01-01T00:00:00Z"
   },
   {
     "item": {
@@ -260,7 +247,8 @@
       "label": "Antoine Gravoil"
     },
     "statement": "Q17624962$3d895d14-4262-5d1c-8fef-060fa06bbad1",
-    "start": "1583-01-01T00:00:00Z"
+    "start": "1583-01-01T00:00:00Z",
+    "end": "1583-01-01T00:00:00Z"
   },
   {
     "item": {
@@ -317,6 +305,14 @@
     "item": {
       "value": "Q2959313",
       "label": "Charles Harouys"
+    },
+    "replaces": {
+      "value": "Q17630943",
+      "label": "Jean Frusneau"
+    },
+    "replacedBy": {
+      "value": "Q15967071",
+      "label": "Pierre André"
     },
     "statement": "Q2959313$279417EB-3D2B-4FC1-9C90-81877CD33549",
     "start": "1588-01-01T00:00:00Z",
@@ -394,6 +390,14 @@
     "item": {
       "value": "Q2959313",
       "label": "Charles Harouys"
+    },
+    "replaces": {
+      "value": "Q3172071",
+      "label": "Jean Fourché"
+    },
+    "replacedBy": {
+      "value": "Q17628795",
+      "label": "Gabriel Hus"
     },
     "statement": "Q2959313$1d13dbf2-48e0-f767-3169-d4eb6aa9bc47",
     "start": "1598-01-01T00:00:00Z",
@@ -804,8 +808,8 @@
       "label": "Jacques de Bourgues"
     },
     "statement": "Q16683815$FC819E79-6F98-449A-B745-CD3FFADFF24A",
-    "start": "1642-01-01T00:00:00Z",
-    "end": "1644-01-01T00:00:00Z"
+    "start": "1644-01-01T00:00:00Z",
+    "end": "1646-01-01T00:00:00Z"
   },
   {
     "item": {
@@ -1305,6 +1309,14 @@
       "value": "Q16186024",
       "label": "René Darquistade"
     },
+    "replaces": {
+      "value": "Q20241014",
+      "label": "Jean-François Védier"
+    },
+    "replacedBy": {
+      "value": "Q13626561",
+      "label": "Claude Petit"
+    },
     "statement": "Q16186024$DA30CE04-6B43-4FBF-BC49-A207A760AE4F",
     "start": "1735-01-01T00:00:00Z",
     "end": "1737-01-01T00:00:00Z"
@@ -1347,6 +1359,14 @@
     "item": {
       "value": "Q16186024",
       "label": "René Darquistade"
+    },
+    "replaces": {
+      "value": "Q17628611",
+      "label": "François Moricaud"
+    },
+    "replacedBy": {
+      "value": "Q20241001",
+      "label": "François-Pierre Durocher"
     },
     "statement": "Q16186024$9da5bd29-4768-ef25-5558-170e9d30802e",
     "start": "1740-01-01T00:00:00Z",
@@ -1545,7 +1565,7 @@
       "label": "Christophe-Clair Danyel de Kervégan"
     },
     "statement": "Q2966060$2B8E8BA6-6E50-4349-A0A9-7719BDA4C02D",
-    "start": "1789-01-01T00:00:00Z",
+    "start": "1789-08-01T00:00:00Z",
     "end": "1790-01-01T00:00:00Z"
   },
   {
@@ -1562,8 +1582,8 @@
       "label": "René-Gaston Baco de la Chapelle"
     },
     "statement": "Q3385239$88442A29-8587-4A5E-8B5F-1CE77EF44971",
-    "start": "1791-01-01T00:00:00Z",
-    "end": "1792-01-01T00:00:00Z"
+    "start": "1791-11-15T00:00:00Z",
+    "end": "1792-12-01T00:00:00Z"
   },
   {
     "item": {
@@ -1596,7 +1616,7 @@
       "label": "Pierre Giraud du Plessis"
     },
     "statement": "Q3166951$5ED4D4AD-5D4D-49A2-9D00-B691B84BDF21",
-    "start": "1793-01-01T00:00:00Z",
+    "start": "1793-10-09T00:00:00Z",
     "end": "1794-01-01T00:00:00Z"
   },
   {
@@ -1613,8 +1633,8 @@
       "label": "Gilbert Beaufranchet"
     },
     "statement": "Q3385239$85c86c94-4630-d0df-2a38-af017504eeb7",
-    "start": "1795-01-01T00:00:00Z",
-    "end": "1795-01-01T00:00:00Z"
+    "start": "1795-01-12T00:00:00Z",
+    "end": "1795-10-16T00:00:00Z"
   },
   {
     "item": {
@@ -1630,7 +1650,7 @@
       "label": "Christophe-Clair Danyel de Kervégan"
     },
     "statement": "Q3105595$C2B79ED4-778A-47BB-A0DF-7B98570C6F82",
-    "start": "1795-01-01T00:00:00Z",
+    "start": "1795-10-16T00:00:00Z",
     "end": "1797-01-01T00:00:00Z"
   },
   {
@@ -1638,9 +1658,17 @@
       "value": "Q2966060",
       "label": "Christophe-Clair Danyel de Kervégan"
     },
+    "replaces": {
+      "value": "Q3105595",
+      "label": "Gilbert Beaufranchet"
+    },
+    "replacedBy": {
+      "value": "Q3189312",
+      "label": "Julien-François Douillard"
+    },
     "statement": "Q2966060$16243706-4f3a-e2dd-be24-2080f3b14fb7",
-    "start": "1797-01-01T00:00:00Z",
-    "end": "1797-01-01T00:00:00Z"
+    "start": "1797-05-04T00:00:00Z",
+    "end": "1797-09-22T00:00:00Z"
   },
   {
     "item": {
@@ -1656,7 +1684,7 @@
       "label": "Louis-Marie Saget"
     },
     "statement": "Q3189312$EA80DC1F-23D3-4D54-A980-64FC2E778E23",
-    "start": "1797-01-01T00:00:00Z",
+    "start": "1797-09-22T00:00:00Z",
     "end": "1798-01-01T00:00:00Z"
   },
   {
@@ -1673,8 +1701,8 @@
       "label": "François Fellonneau"
     },
     "statement": "Q3260731$E4726B8F-D298-4047-A06B-5354CE4E7FFF",
-    "start": "1798-01-01T00:00:00Z",
-    "end": "1798-01-01T00:00:00Z"
+    "start": "1798-05-01T00:00:00Z",
+    "end": "1800-07-19T00:00:00Z"
   },
   {
     "item": {
@@ -1690,7 +1718,7 @@
       "label": "Claude-Sylvain Pâris"
     },
     "statement": "Q3084604$B9C49ECF-A077-43FC-B43E-64F812A4755D",
-    "start": "1800-01-01T00:00:00Z",
+    "start": "1800-07-19T00:00:00Z",
     "end": "1801-01-01T00:00:00Z"
   },
   {
@@ -1726,15 +1754,6 @@
     "statement": "Q2871666$9BB0C358-B418-45FB-89C6-7B179B851DC9",
     "start": "1803-01-01T00:00:00Z",
     "end": "1804-01-01T00:00:00Z"
-  },
-  {
-    "item": {
-      "value": "Q3163878",
-      "label": "Jean-Baptiste Bertrand-Geslin"
-    },
-    "statement": "Q3163878$CE9BF92C-1E51-4AE2-9236-F05036E9FFE0",
-    "start": "1805-01-01T00:00:00Z",
-    "end": "1813-01-01T00:00:00Z"
   },
   {
     "item": {
@@ -1784,7 +1803,7 @@
       "label": "Maurice Étiennez"
     },
     "statement": "Q3163878$30B4A846-F921-402E-AB68-C488BD68D0D1",
-    "start": "1815-01-01T00:00:00Z",
+    "start": "1815-04-18T00:00:00Z",
     "end": "1815-01-01T00:00:00Z"
   },
   {
@@ -1801,8 +1820,8 @@
       "label": "François-Marie-Bonaventure du Fou"
     },
     "statement": "Q3301588$D044A8DD-A368-4AF0-8C5E-B7B6EBB2AD61",
-    "start": "1815-01-01T00:00:00Z",
-    "end": "1815-01-01T00:00:00Z"
+    "start": "1815-07-11T00:00:00Z",
+    "end": "1815-07-19T00:00:00Z"
   },
   {
     "item": {
@@ -1869,8 +1888,8 @@
       "label": "Philippe-René Soubzmain"
     },
     "statement": "Q3301588$AA7BAFA8-AC19-4857-8E50-2B64461C11D2",
-    "start": "1830-01-01T00:00:00Z",
-    "end": "1830-01-01T00:00:00Z"
+    "start": "1830-08-04T00:00:00Z",
+    "end": "1830-08-17T00:00:00Z"
   },
   {
     "item": {
@@ -1886,13 +1905,21 @@
       "label": "Ferdinand Favre"
     },
     "statement": "Q3379187$2E006272-E6C5-45B5-99C0-2C5DD57AD0E8",
-    "start": "1830-01-01T00:00:00Z",
+    "start": "1830-08-17T00:00:00Z",
     "end": "1831-01-01T00:00:00Z"
   },
   {
     "item": {
       "value": "Q3068557",
       "label": "Ferdinand Favre"
+    },
+    "replaces": {
+      "value": "Q3379187",
+      "label": "Philippe-René Soubzmain"
+    },
+    "replacedBy": {
+      "value": "Q3592731",
+      "label": "Évariste Colombel"
     },
     "statement": "Q3068557$EF659AA9-3416-4F6C-884E-0C38C19C3E1B",
     "start": "1832-01-01T00:00:00Z",
@@ -1919,6 +1946,14 @@
     "item": {
       "value": "Q3068557",
       "label": "Ferdinand Favre"
+    },
+    "replaces": {
+      "value": "Q3592731",
+      "label": "Évariste Colombel"
+    },
+    "replacedBy": {
+      "value": "Q2853895",
+      "label": "Antoine Dufour"
     },
     "statement": "Q3068557$03815c91-4a1c-ca14-da11-c192a6d6fbd8",
     "start": "1852-01-01T00:00:00Z",
@@ -1994,23 +2029,6 @@
   },
   {
     "item": {
-      "value": "Q3189309",
-      "label": "Julien-Charles Lechat"
-    },
-    "replaces": {
-      "value": "Q3427041",
-      "label": "René de Cornulier"
-    },
-    "replacedBy": {
-      "value": "Q3299005",
-      "label": "Mathurin Brissonneau"
-    },
-    "statement": "Q3189309$82F09BA8-FF73-4876-B9FE-3EFC57FB5DD9",
-    "start": "1874-01-01T00:00:00Z",
-    "end": "1881-01-01T00:00:00Z"
-  },
-  {
-    "item": {
       "value": "Q3427041",
       "label": "René de Cornulier"
     },
@@ -2025,6 +2043,23 @@
     "statement": "Q3427041$2DA5F94D-B4E1-4DD3-A089-3D95F58619A4",
     "start": "1874-03-01T00:00:00Z",
     "end": "1874-12-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q3189309",
+      "label": "Julien-Charles Lechat"
+    },
+    "replaces": {
+      "value": "Q3427041",
+      "label": "René de Cornulier"
+    },
+    "replacedBy": {
+      "value": "Q3299005",
+      "label": "Mathurin Brissonneau"
+    },
+    "statement": "Q3189309$82F09BA8-FF73-4876-B9FE-3EFC57FB5DD9",
+    "start": "1874-12-01T00:00:00Z",
+    "end": "1881-01-01T00:00:00Z"
   },
   {
     "item": {
