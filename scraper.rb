@@ -47,7 +47,7 @@ class HolderItem < Scraped::HTML
   end
 
   field :end_date do
-    [tds[1].css('time/@datetime').text, tds[1].css('a').map(&:text).first.to_s.tidy].select(&:present?).first
+    [tds[1].css('time/@datetime').text, tds[1].css('a').map(&:text).first.to_s.tidy, start_date].select(&:present?).first
   end
 
   field :replaces do
